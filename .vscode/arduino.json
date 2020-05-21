@@ -1,0 +1,5 @@
+{
+    "sketch": "pfe.ino",
+    "board": "arduino:avr:uno",
+    "programmer": "AVRISP mkII"
+}
